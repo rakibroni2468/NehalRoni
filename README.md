@@ -27,7 +27,7 @@ pkg update
  pkg install python
  pkg install git
  pip install requests
- pip install bs4
+ pip install beautifulsoup4
  pip install futures
  pip install mechanize
  cd $HOME 
